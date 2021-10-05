@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "first name": "malavika",
+    "last name": "ajit",
+    "address": "abc",
+    "city": "kochi",
+    "state": "kerala",
+    "zip code": 58965,
+    "phone no": 859965696,
+    "email": "malavika@gmail.com"
+  },
+  {
+    "id": 2,
+    "first name": "meenakshi",
+    "last name": "ajit",
+    "address": "xyz",
+    "city": "lucknow",
+    "state": "UP",
+    "zip code": 659965,
+    "phone no": 748859658,
+    "email": "meenakshi@gmail.com"
+  },
+  {
+    "id": 3,
+    "first name": "Vishnu",
+    "last name": "naik",
+    "address": "vihar",
+    "city": "kochi",
+    "state": "kerala",
+    "zip code": 859965,
+    "phone no": 7585965845,
+    "email": "vishnu@gmail.com"
+  },
+  {
+    "id": 4,
+    "first name": "Mili",
+    "last name": "Ann",
+    "address": "xyz",
+    "city": "panjim",
+    "state": "goa",
+    "zip code": 758856,
+    "phone no": 75889658,
+    "email": "mili@gmail.com",
+    "zip": 52336,
+    "mob": 8561475823
+  }
+]
